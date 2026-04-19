@@ -1,4 +1,4 @@
-# Fine Tune BERT for Text Classification with TensorFlow
+# Fine-Tune BERT for Text Classification with TensorFlow
 
 This repository documents a binary text classification workflow that fine-tunes a pretrained BERT encoder in TensorFlow to distinguish **sincere** questions from **insincere** ones. The implementation uses TensorFlow 2, TensorFlow Hub, TensorFlow Model Garden BERT utilities, and a custom `tf.data` input pipeline built around the Quora Insincere Questions Classification dataset.
 
